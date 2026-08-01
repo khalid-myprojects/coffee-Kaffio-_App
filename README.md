@@ -31,15 +31,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="PASTE_HOME_LIGHT_LINK_HERE" width="240"><br>
+<img src="screenshots/home_light.png" width="240"><br>
 <sub><b>Home — Light Theme</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="PASTE_HOME_DARK_LINK_HERE" width="240"><br>
+<img src="screenshots/home_dark.png" width="240"><br>
 <sub><b>Home — Dark Theme</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="PASTE_DETAILS_LINK_HERE" width="240"><br>
+<img src="screenshots/details.png" width="240"><br>
 <sub><b>Product Details</b></sub>
 </td>
 </tr>
@@ -118,10 +118,15 @@ brewberry/
 │   ├── models/
 │   └── constants/
 │
-└── assets/
-    ├── images/
-    ├── icons/
-    └── animations/
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── animations/
+│
+└── screenshots/
+    ├── home_light.png
+    ├── home_dark.png
+    └── details.png
 ```
 
 <br>
