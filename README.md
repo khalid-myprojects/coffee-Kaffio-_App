@@ -1,160 +1,189 @@
-# ☕ Brewberry - Premium Coffee Ordering App
+<div align="center">
 
-A beautifully crafted Flutter UI showcasing a modern coffee ordering experience with premium animations, swipeable product cards, and an elegant Starbucks-inspired design.
+# ☕ Brewberry
 
-Designed to demonstrate advanced Flutter UI development, smooth animations, and clean mobile interface design.
+### Premium Coffee Ordering App
 
----
+*A beautifully crafted Flutter UI showcasing a modern coffee ordering experience with premium animations, swipeable product cards, and an elegant, Starbucks‑inspired design.*
 
-# ✨ Preview
+<br>
 
-<p align="center">
-  <img src="screenshots/home_light.png" width="260">
-  &nbsp;
-  <img src="screenshots/home_dark.png" width="260">
-  &nbsp;
-  <img src="screenshots/details.png" width="260">
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
----
+</div>
 
-# 🚀 Features
+<br>
 
-- Premium Starbucks-inspired UI
-- Smooth swipeable coffee cards
-- Beautiful page transitions
-- Animated product carousel
-- Interactive product details screen
-- Size selection
-- Quantity selector
-- Modern Order Now interface
-- Responsive Flutter layout
-- Clean and reusable code structure
-- Elegant typography
-- Soft shadows and glassmorphism-inspired components
+## ✨ Overview
 
----
+**Brewberry** is a UI/UX case study built to demonstrate advanced Flutter development — clean architecture, fluid animations, and pixel‑perfect mobile design. From the animated home carousel to the interactive product details screen, every element is crafted to feel like a real, production‑ready coffee ordering experience.
 
-# 📱 Screens
+<br>
+
+## 📱 Preview
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="screenshots/home_light.png" width="240"><br>
+<sub><b>Home — Light Theme</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="screenshots/home_dark.png" width="240"><br>
+<sub><b>Home — Dark Theme</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="screenshots/details.png" width="240"><br>
+<sub><b>Product Details</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 🚀 Features
+
+- 🎨 Premium, Starbucks‑inspired UI
+- 🔄 Smooth, swipeable coffee cards
+- 🎬 Beautiful page transitions & animated product carousel
+- 🧾 Interactive product details screen
+- 📏 Size selection (Tall, Grande, Venti, Custom)
+- ➕ Quantity selector
+- 🛒 Modern "Order Now" checkout interface
+- 📱 Fully responsive Flutter layout
+- 🧱 Clean, reusable, well‑structured code
+- ✍️ Elegant typography
+- 🌫️ Soft shadows & glassmorphism‑inspired components
+
+<br>
+
+## 🖥️ Screens
 
 ### 🏠 Home Screen
-
-- Premium coffee showcase
-- Animated flavour cards
-- Coffee categories
-- Smooth carousel animations
-- Beautiful gradients
-- Interactive navigation
-
----
+- Premium coffee showcase with animated flavor cards
+- Quick‑access coffee categories (Hot Coffee, Drinks, Hot Teas, Bakery)
+- Smooth carousel animations with dynamic gradient backgrounds
+- Interactive, gesture‑driven navigation
 
 ### ☕ Product Details
-
-- Large product preview
-- Coffee description
-- Size selection
+- Large, immersive product preview
+- Rich coffee descriptions
+- Size selection with visual icons
 - Quantity controls
-- Pricing
-- Order button
-- Modern card layout
+- Live pricing
+- One‑tap "Order Now" button
 
----
+<br>
 
-# 🎨 Design Highlights
+## 🎨 Design Highlights
 
-- Starbucks-inspired theme
-- Minimal UI
-- Premium color palette
-- Soft shadows
-- Smooth animations
-- Rounded components
-- Responsive design
-- Modern typography
+| Aspect | Details |
+|---|---|
+| **Theme** | Starbucks‑inspired, minimal UI |
+| **Palette** | Warm, premium coffee tones with light & dark variants |
+| **Shadows** | Soft, layered shadows for depth |
+| **Motion** | Smooth, physics‑based animations |
+| **Shape Language** | Rounded components throughout |
+| **Layout** | Fully responsive across screen sizes |
+| **Typography** | Modern, highly legible type system |
 
----
+<br>
 
-# 🛠 Built With
+## 🛠️ Built With
 
-- Flutter
-- Dart
-- Material Design
-- Custom Animations
+- **Flutter** — cross‑platform UI toolkit
+- **Dart** — programming language
+- **Material Design** — design system foundation
+- **Custom Animations** — hand‑tuned transitions & micro‑interactions
 
----
+<br>
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
-lib/
+brewberry/
 │
-├── main.dart
-├── screens/
-├── widgets/
-├── models/
-└── constants/
-
-assets/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   ├── widgets/
+│   ├── models/
+│   └── constants/
 │
-├── images/
-├── icons/
-└── animations/
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── animations/
+│
+└── screenshots/
+    ├── home_light.png
+    ├── home_dark.png
+    └── details.png
 ```
 
----
+<br>
 
-# 📸 Screenshots
+## ⚡ Getting Started
 
-## Home Screen (Light Theme)
+```bash
+# Clone the repository
+git clone https://github.com/YourUsername/brewberry.git
 
-![Home](screenshots/home_light.png)
+# Navigate into the project
+cd brewberry
 
----
+# Install dependencies
+flutter pub get
 
-## Home Screen (Dark Theme)
+# Run the app
+flutter run
+```
 
-![Dark](screenshots/home_dark.png)
+<br>
 
----
+## 🎯 Purpose
 
-## Product Details
+This project was built to showcase Flutter UI development skills, premium mobile interface design, and smooth animations — focusing on an engaging user experience through elegant layouts, thoughtful interactions, and modern design principles.
 
-![Details](screenshots/details.png)
+<br>
 
----
+## 📌 Roadmap
 
-# 🎯 Purpose
+- [ ] Firebase Integration
+- [ ] User Authentication
+- [ ] Shopping Cart
+- [ ] Favorites
+- [ ] Payment Gateway
+- [ ] Order Tracking
+- [ ] Dark Mode Toggle
+- [ ] Search Functionality
+- [ ] Offers & Coupons
+- [ ] Backend Integration
 
-This project was built to showcase Flutter UI development skills, premium mobile interface design, and smooth animations. It focuses on creating an engaging user experience through elegant layouts, interactive elements, and modern design principles.
+<br>
 
----
-
-# 📌 Future Improvements
-
-- Firebase Integration
-- User Authentication
-- Shopping Cart
-- Favorites
-- Payment Gateway
-- Order Tracking
-- Dark Mode Toggle
-- Search Functionality
-- Offers & Coupons
-- Backend Integration
-
----
-
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Khalid Imran**
+*Flutter Developer | AI Enthusiast | UI/UX Designer*
 
-Flutter Developer | AI Enthusiast | UI/UX Designer
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 
-GitHub:
-https://github.com/YourUsername
-
-LinkedIn:
-https://linkedin.com/in/YourProfile
+<br>
 
 ---
 
-## ⭐ If you like this project, don't forget to give it a star!
+<div align="center">
+
+### ⭐ If you like this project, don't forget to give it a star!
+
+</div>
