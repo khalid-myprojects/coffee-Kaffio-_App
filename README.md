@@ -27,24 +27,22 @@
 ## 📱 Preview
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/home_light.png" width="240"><br>
+<img src="https://raw.githubusercontent.com/khalid-myprojects/coffee-Kaffio-_App/de5eb08eb6aaa3792de5c5573a0b96de1b0bd659/page1.png" width="240"><br>
 <sub><b>Home — Light Theme</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/home_dark.png" width="240"><br>
+<img src="https://raw.githubusercontent.com/khalid-myprojects/coffee-Kaffio-_App/de5eb08eb6aaa3792de5c5573a0b96de1b0bd659/page2.png" width="240"><br>
 <sub><b>Home — Dark Theme</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/details.png" width="240"><br>
+<img src="https://raw.githubusercontent.com/khalid-myprojects/coffee-Kaffio-_App/de5eb08eb6aaa3792de5c5573a0b96de1b0bd659/detail_page.png" width="240"><br>
 <sub><b>Product Details</b></sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br>
